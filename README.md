@@ -1,0 +1,4 @@
+- 👋 Hi, I’m ZeroTwo
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning HTML
+- 📫 How to reach me ZeroTwo.#0002
