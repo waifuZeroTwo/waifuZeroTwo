@@ -1,4 +1,4 @@
 - 👋 Hi, I’m ZeroTwo
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML and Python
-- 📫 How to reach me Rimuru_Tempest#0002
+- 🌱 I’m currently learning HTML/CSS, Python, SQL, C#, JS and more
+- 📫 How to reach me Rimuru_Tempest#9999
